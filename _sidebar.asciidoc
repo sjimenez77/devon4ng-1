@@ -15,6 +15,7 @@
 ** link:guide-angular-elements[Angular Elements]
 ** link:guide-angular-lazy-loading[Angular Lazy Loading]
 ** link:guide-angular-library[Angular Library]
+** likn:guide-angular-theming[Angular Material Theming]
 ** link:guide-angular-pwa[Angular Progressive Web Apps]
 ** link:guide-app-initializer[App Initializer]
 ** link:guide-component-decomposition[Component Decomposition]
@@ -30,7 +31,7 @@
 === Ionic
 ** link:guide-ionic-getting-started[Ionic 4 Getting started]
 ** link:guide-ionic-from-code-to-android[Ionic 4 to Android]
-** link:guide-angular-pwa[Ionic Progressive Web Apps]
+** link:guide-ionic-pwa[Ionic Progressive Web Apps]
 
 === Layouts
 ** link:guide-layout-with-angular-material[Angular Material Layout]
