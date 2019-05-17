@@ -15,7 +15,7 @@
 ** link:guide-angular-elements[Angular Elements]
 ** link:guide-angular-lazy-loading[Angular Lazy Loading]
 ** link:guide-angular-library[Angular Library]
-** likn:guide-angular-theming[Angular Material Theming]
+** link:guide-angular-theming[Angular Material Theming]
 ** link:guide-angular-pwa[Angular Progressive Web Apps]
 ** link:guide-app-initializer[App Initializer]
 ** link:guide-component-decomposition[Component Decomposition]
@@ -35,6 +35,12 @@
 
 === Layouts
 ** link:guide-layout-with-angular-material[Angular Material Layout]
+
+=== NgRx
+** link:guide-ngrx-getting-started[Introduction]
+** link:guide-ngrx-simple-store[State, Selection and Reducers]
+** link:guide-ngrx-effects[Side effects with NgRx/Effects]
+** link:guide-ngrx-entity[Simplifying CRUD with NgRx/Entity]
 
 === Cookbook
 ** link:cookbook-abstract-class-store[Abstract Class Store]
